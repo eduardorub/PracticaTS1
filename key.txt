@@ -1,5 +1,5 @@
 @echo off
 echo.
-echo Número: 18330494
+echo Número de serie: 111
 echo.
 pause
