@@ -1,5 +1,0 @@
-@echo off
-echo.
-echo Número de serie: 111
-echo.
-pause
